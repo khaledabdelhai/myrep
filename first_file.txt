@@ -1,1 +1,3 @@
 Hello there. This  is first file
+
+Now, this is the second line
